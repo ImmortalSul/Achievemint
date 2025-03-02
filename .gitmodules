@@ -1,0 +1,6 @@
+[submodule "Achievemint-NftMinting"]
+	path = Achievemint-NftMinting
+	url = https://github.com/ImmortalSul/Achievemint-NftMinting.git
+[submodule "Achievemint-Middleware"]
+	path = Achievemint-Middleware
+	url = https://github.com/ImmortalSul/Achievemint-Middleware.git
